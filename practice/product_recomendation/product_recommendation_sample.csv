@@ -1,0 +1,103 @@
+user_id,product_id,product_category,product_name,purchase_amount,rating
+101,201,Electronics,Smartphone,20000,5
+102,202,Books,Python Book,500,4
+103,203,Clothing,T-Shirt,800,3
+101,202,Books,Python Book,500,4
+102,203,Clothing,T-Shirt,800,3
+104,204,Sports,Football,1500,5
+105,205,Electronics,Laptop,50000,5
+106,206,Books,Data Science Book,700,4
+107,207,Clothing,Jeans,1200,4
+108,208,Sports,Tennis Racket,2500,5
+109,209,Electronics,Tablet,15000,4
+110,210,Books,Machine Learning Book,900,5
+111,211,Clothing,Jacket,2500,5
+112,212,Sports,Basketball,1200,4
+113,213,Electronics,Smartwatch,8000,4
+114,214,Books,Deep Learning Book,1000,5
+115,215,Clothing,Shoes,1800,4
+116,216,Sports,Cricket Bat,2200,5
+117,217,Electronics,Camera,30000,5
+118,218,Books,AI Book,1100,4
+119,219,Clothing,Shorts,600,3
+120,220,Sports,Volleyball,900,4
+121,221,Electronics,Headphones,2500,4
+122,222,Books,Statistics Book,800,4
+123,223,Clothing,Cap,300,3
+124,224,Sports,Table Tennis Bat,700,4
+125,225,Electronics,Monitor,12000,5
+126,226,Books,Algebra Book,600,3
+127,227,Clothing,Scarf,400,4
+128,228,Sports,Skateboard,3500,5
+129,229,Electronics,Speaker,3500,4
+130,230,Books,Geometry Book,650,3
+131,231,Clothing,Belt,350,4
+132,232,Sports,Baseball Glove,1300,4
+133,233,Electronics,Printer,7000,3
+134,234,Books,Calculus Book,900,5
+135,235,Clothing,Gloves,500,3
+136,236,Sports,Golf Ball,400,4
+137,237,Electronics,Router,2500,4
+138,238,Books,History Book,550,3
+139,239,Clothing,Socks,200,3
+140,240,Sports,Swimming Goggles,800,4
+141,241,Electronics,Projector,20000,5
+142,242,Books,Philosophy Book,750,4
+143,243,Clothing,Hat,350,3
+144,244,Sports,Boxing Gloves,1500,5
+145,245,Electronics,Keyboard,1500,4
+146,246,Books,Poetry Book,500,3
+147,247,Clothing,Shirt,900,4
+148,248,Sports,Skipping Rope,300,3
+149,249,Electronics,Mouse,800,4
+150,250,Books,Drama Book,600,3
+151,251,Clothing,Coat,3000,5
+152,252,Sports,Surfboard,7000,5
+153,253,Electronics,Charger,1200,4
+154,254,Books,Travel Book,650,4
+155,255,Clothing,Blazer,3500,5
+156,256,Sports,Helmet,1800,4
+157,257,Electronics,Power Bank,2000,4
+158,258,Books,Science Book,700,4
+159,259,Clothing,Track Pants,1100,4
+160,260,Sports,Shuttlecock,200,3
+161,261,Electronics,USB Drive,600,4
+162,262,Books,Comic Book,400,3
+163,263,Clothing,Leggings,800,4
+164,264,Sports,Table Tennis Ball,100,2
+165,265,Electronics,Webcam,2500,4
+166,266,Books,Dictionary,900,5
+167,267,Clothing,Skirt,950,4
+168,268,Sports,Football Shoes,2200,5
+169,269,Electronics,Microphone,1800,4
+170,270,Books,Atlas,850,4
+171,271,Clothing,Tracksuit,2000,5
+172,272,Sports,Stopwatch,700,3
+173,273,Electronics,VR Headset,25000,5
+174,274,Books,Encyclopedia,1200,5
+175,275,Clothing,Swimsuit,1200,4
+176,276,Sports,Whistle,150,2
+177,277,Electronics,Drone,40000,5
+178,278,Books,Recipe Book,500,3
+179,279,Clothing,Pyjamas,700,3
+180,280,Sports,Chess Board,900,4
+181,281,Electronics,Game Console,35000,5
+182,282,Books,Art Book,950,4
+183,283,Clothing,Undergarments,400,3
+184,284,Sports,Carrom Board,1200,4
+185,285,Electronics,Smart TV,45000,5
+186,286,Books,Music Book,600,3
+187,287,Clothing,Waistcoat,1500,4
+188,288,Sports,Snooker Cue,2500,5
+189,289,Electronics,Graphics Card,30000,5
+190,290,Books,Children's Book,350,3
+191,291,Clothing,Overcoat,4000,5
+192,292,Sports,Archery Set,5000,5
+193,293,Electronics,Scanner,8000,4
+194,294,Books,Notebook,200,2
+195,295,Clothing,Top,700,3
+196,296,Sports,Kayak,20000,5
+197,297,Electronics,Soundbar,9000,4
+198,298,Books,Guide Book,450,3
+199,299,Clothing,Cardigan,1200,4
+200,300,Sports,Rowing Machine,25000,5
